@@ -1,9 +1,5 @@
-<div align='center'>
-    <img src=https://blogassets.oss-cn-shenzhen.aliyuncs.com/logo_hor.png>
-    </img>
-    <p>成都幼麟游戏有限公司出品</p>
-</div>
-
+Cocos Creator v2.0.6
+有bug , configs_win.js里面的端口要改成 	CLIENT_PORT:10001,
 
 
 # >>>>Cocos Creator引擎官方合作直播教学案例<<<<< 
