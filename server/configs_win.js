@@ -64,6 +64,6 @@ exports.game_server = function(){
 		
 		//暴露给客户端的接口
 		CLIENT_IP:HALL_IP,
-		CLIENT_PORT:10000,
+		CLIENT_PORT:10001,
 	};
 };
